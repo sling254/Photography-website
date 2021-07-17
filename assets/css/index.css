@@ -50,6 +50,10 @@ input[type=text] {
   width: 100%;
 }
 
+/*style the paragraphs*/
+p{
+  text-align: center
+}
 
 /*footer style */
 .footer {
