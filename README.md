@@ -11,7 +11,7 @@ https://sling254.github.io/Photography-website/
 This is as easy as just opening the above link on a browser.
 
 # Website Design
-
+* see [Website Design](https://github.com/sling254/Photography-website/blob/main/assets/img/websitedesign.jpg) file
 
 # Permissions
 - Internet
