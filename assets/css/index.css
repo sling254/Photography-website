@@ -23,6 +23,20 @@
     float: left;
 }
 
+/*style the gallery-section*/
+.Gallery {
+  display: flex;
+  align-items: center;
+  
+}
+.Gallery div {
+   border: 1px solid #ddd;
+   padding: 7px;
+   align-items: center;
+   margin-left: 1px;
+}
+
+
 /*footer style */
 .footer {
     background-color: rgb(2, 2, 2);
