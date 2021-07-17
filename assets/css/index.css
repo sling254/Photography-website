@@ -54,7 +54,14 @@ input[type=text] {
 p{
   text-align: center
 }
-
+/*style the headings*/
+h1{
+  color:blue;
+  text-align: center;
+  margin:  auto;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
 /*footer style */
 .footer {
     background-color: rgb(2, 2, 2);
